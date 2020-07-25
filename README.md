@@ -2,7 +2,7 @@
 
 ## screenshot of landing page
 
-!(./assets/images/landing-page.png)
+![screenshot of landing page](./assets/images/landing-page.png)
 
 ## project description
 
